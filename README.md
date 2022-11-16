@@ -1,7 +1,9 @@
+[![MasterHead](https://img.freepik.com/free-vector/full-moon-night-sky-with-stars-clouds-trees-pond-reflecting-starlight_107791-5023.jpg?w=1800&t=st=1668620871~exp=1668621471~hmac=0be26b9ef7c7c1ba91f82c40f8c9a58966205c6f5680383296be058c4d2de53f)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shahima Firoz Khan</h1>
 <h3 align="center">A passionate Software developer from Neptune</h3>
+<img align="right" alt="Coding" width="400" src="images/ss.png">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahimafiroz&label=Profile%20views&color=0e75b6&style=flat" alt="Shahima" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khan_shahima" target="blank"><img src="https://img.shields.io/twitter/follow/khan_shahima?logo=twitter&style=for-the-badge" alt="khan_shahima" /></a> </p>
 
@@ -23,7 +25,7 @@
 
 <p align="left">
 I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
-          computer engineering. I love creating and developing software. I love
+          computer engineering. I enjoy creating and developing software. I love
           my job and this incredible experience of continuously learning new
           things about software. I was initially fascinated by the mystical
           horizon of the software and development industries, and once I entered
@@ -53,6 +55,7 @@ I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahimafiroz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shahimafiroz" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&&theme=tokyonight" alt="shahimafiroz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahimafiroz&show_icons=true&locale=en&theme=tokyonight" alt="shahimafiroz" /></p>
@@ -63,7 +66,7 @@ I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
 <a href="https://twitter.com/khan_shahima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khan_shahima" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahima-firoz-khan-0276b11b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahima-firoz-khan-0276b11b9" height="30" width="40" /></a>
 <a href="https://instagram.com/shahimakhan100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahimakhan100230" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahima firoz khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahima firoz khan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFhn1RFoF9NAoBeHfSA7ZPg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahima firoz khan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khanshahima4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanshahima4" height="30" width="40" /></a>
 <a href="https://discord.gg/#9527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9527" height="30" width="40" /></a>
 </p>

@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/full-moon-night-sky-with-stars-clouds-trees-pond-reflecting-starlight_107791-5023.jpg?w=1800&t=st=1668620871~exp=1668621471~hmac=0be26b9ef7c7c1ba91f82c40f8c9a58966205c6f5680383296be058c4d2de53f)](https://rishavchanda.io)
+<!-- [![MasterHead](https://img.freepik.com/free-vector/full-moon-night-sky-with-stars-clouds-trees-pond-reflecting-starlight_107791-5023.jpg?w=1800&t=st=1668620871~exp=1668621471~hmac=0be26b9ef7c7c1ba91f82c40f8c9a58966205c6f5680383296be058c4d2de53f)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Shahima Firoz Khan</h1>
 <h3 align="center">A passionate Software developer from Neptune</h3>
 <img align="right" alt="Coding" width="400" src="images/ss.png">
@@ -33,16 +33,10 @@ I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
           attempting to make my own little creative haven amid the ever evolving
           landscape of code.</p>
 
-
-
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-
-
 
 <br><br>
 
@@ -52,15 +46,14 @@ I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shahimafiroz&&theme=xcode)](https://github.com/Shahimafiroz)
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahimafiroz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shahimafiroz" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&&theme=tokyonight" alt="shahimafiroz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahimafiroz&show_icons=true&locale=en&theme=tokyonight" alt="shahimafiroz" /></p>
 
 <br><br>
+
 <h1 align="center">Youtube</h1>
 <br><br>
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -71,7 +64,6 @@ I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
 [![Covariance.](https://ytcards.demolab.com/?id=qoi5JsDALK4&title=Covariance.&lang=en&timestamp=1665327857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Covariance.")](https://www.youtube.com/watch?v=qoi5JsDALK4)
 [![PORTFOLIO](https://ytcards.demolab.com/?id=2JxZMLuSMw0&title=PORTFOLIO&lang=en&timestamp=1665323439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "PORTFOLIO")](https://www.youtube.com/watch?v=2JxZMLuSMw0)
 <!-- END YOUTUBE-CARDS -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,7 +76,3 @@ I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
 <a href="https://discord.gg/#9527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9527" height="30" width="40" /></a>
 </p>
 <br><br>
-
-
-
-

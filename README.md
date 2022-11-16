@@ -48,6 +48,8 @@ computer engineering. I enjoy creating and developing software. I love
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahimafiroz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shahimafiroz" /></p>
 
+<br><br><br><br><br><br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&&theme=tokyonight" alt="shahimafiroz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahimafiroz&show_icons=true&locale=en&theme=tokyonight" alt="shahimafiroz" /></p>

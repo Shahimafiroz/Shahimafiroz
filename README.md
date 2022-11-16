@@ -50,13 +50,11 @@ computer engineering. I enjoy creating and developing software. I love
 <br><br>
 
 [![shahima's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shahimafiroz&&theme=xcode)](https://github.com/Shahimafiroz)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahimafiroz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shahimafiroz" /></p>
-
-<br><br><br><br><br><br><br>
-
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahimafiroz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shahimafiroz" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&&theme=tokyonight" alt="shahimafiroz" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahimafiroz&show_icons=true&locale=en&theme=tokyonight" alt="shahimafiroz" /></p>
 
 <br><br>

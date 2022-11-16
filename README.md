@@ -1,27 +1,23 @@
 <!-- [![MasterHead](https://img.freepik.com/free-vector/full-moon-night-sky-with-stars-clouds-trees-pond-reflecting-starlight_107791-5023.jpg?w=1800&t=st=1668620871~exp=1668621471~hmac=0be26b9ef7c7c1ba91f82c40f8c9a58966205c6f5680383296be058c4d2de53f)](https://rishavchanda.io) -->
 <h1 align="center">Hello! 👋, I'm Shahima Firoz Khan</h1>
 <h3 align="center">A Software developer from Neptune</h3>
-<img align="right" alt="Coding" width="400" src="images/ss.png">
+<img align="right" alt="Coding" width="370" src="images/ss.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahimafiroz&label=Profile%20views&color=0e75b6&style=flat" alt="Shahima" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khan_shahima" target="blank"><img src="https://img.shields.io/twitter/follow/khan_shahima?logo=twitter&style=for-the-badge" alt="khan_shahima" /></a> </p>
 
-- 🔭 I’m currently working on [node_express](https://github.com/Shahimafiroz/node_express)
+- 🔭 I’m working on [node_express](https://github.com/Shahimafiroz/node_express)
 
 - 🌱 I’m currently learning **Node,Express,Rest API dev**
-
-- 👨‍💻 All of my projects are available at [WWW.comingsoon_hehe.com](WWW.comingsoon_hehe.com)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Shahima264](https://hashnode.com/@Shahima264)
 
 - 💬 Ask me about **Bootstrap , Tailwind , Javascript**
 
-- 📫 How to reach me **khanshahima4@gmail.com**
-
 - ⚡ Fun fact **I'm a CEO of ghosting**
 
-<br><br>
+<br><br><br><br>
 
 <p align="left">
 I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
@@ -33,8 +29,7 @@ computer engineering. I enjoy creating and developing software. I love
           attempting to make my own little creative haven amid the ever evolving
           landscape of code.</p>
          
-         
-###       
+<br><br>         
           
 
 <br><br>

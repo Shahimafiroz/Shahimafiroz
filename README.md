@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://img.freepik.com/free-vector/full-moon-night-sky-with-stars-clouds-trees-pond-reflecting-starlight_107791-5023.jpg?w=1800&t=st=1668620871~exp=1668621471~hmac=0be26b9ef7c7c1ba91f82c40f8c9a58966205c6f5680383296be058c4d2de53f)](https://rishavchanda.io) -->
 <h1 align="center">Hello! 👋, I'm Shahima Firoz Khan</h1>
 <h3 align="center">A Software developer from Neptune</h3>
-<img align="right" alt="Coding" width="370" src="images/ss.png">
+<img align="right" alt="Coding" width="300" height="300" src="images/ss.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahimafiroz&label=Profile%20views&color=0e75b6&style=flat" alt="Shahima" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Node,Express,Rest API dev**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Shahima264](https://hashnode.com/@Shahima264)
+- 📝 I regularly write articles on [https://shahimafiroz.hashnode.dev/](https://shahimafiroz.hashnode.dev/)
 
 - 💬 Ask me about **Bootstrap , Tailwind , Javascript**
 
 - ⚡ Fun fact **I'm a CEO of ghosting**
 
-<br><br><br><br>
+<br><br>
 
 <p align="left">
 I'm Shahima Firoz Khan, a junior at the University of Mumbai studying

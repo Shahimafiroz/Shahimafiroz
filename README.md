@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" src="https://media.giphy.com/media/NaJLclJfW2rUmWEMD6/giphy.gif">
-<img align="center" alt="Coding" src="https://media.giphy.com/media/NaJLclJfW2rUmWEMD6/giphy.gif">
+
+<p align="center"><img  alt="Coding" src="https://media.giphy.com/media/NaJLclJfW2rUmWEMD6/giphy.gif"></p>
 <h1 align="center">Hello! 👋, I'm Shahima Firoz Khan</h1>
 <h3 align="center">A Software developer from Neptune</h3>
 <img align="right" alt="Coding" width="400" height="350" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
@@ -42,7 +42,7 @@ computer engineering. I enjoy creating and developing software. I love
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahimafiroz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shahimafiroz" /></p>
 <br>
-<img align="right" width="400" height="350" alt="Coding" src="https://media.giphy.com/media/BvXqRtkv94JJ5mdq6W/giphy.gif">
+<img align="right" width="350" height="300" alt="Coding" src="https://media.giphy.com/media/BvXqRtkv94JJ5mdq6W/giphy.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&&theme=tokyonight" alt="shahimafiroz" /></p>
 <br>
 

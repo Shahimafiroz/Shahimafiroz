@@ -1,8 +1,8 @@
 
-<p align="center"><img  alt="Coding" src="https://media.giphy.com/media/NaJLclJfW2rUmWEMD6/giphy.gif"></p>
+<p align="center"><img height="70" alt="Coding" src="https://media.giphy.com/media/NaJLclJfW2rUmWEMD6/giphy.gif"></p>
 <h1 align="center">Hello! 👋, I'm Shahima Firoz Khan</h1>
 <h3 align="center">A Software developer from Neptune</h3>
-<img align="right" alt="Coding" width="400" height="350" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahimafiroz&label=Profile%20views&color=0e75b6&style=flat" alt="Shahima" /> </p>
 <p align="left"> <a href="https://twitter.com/khan_shahima" target="blank"><img src="https://img.shields.io/twitter/follow/khan_shahima?logo=twitter&style=for-the-badge" alt="khan_shahima" /></a> </p>
@@ -17,8 +17,7 @@
 
 - ⚡ Fun fact **I'm a CEO of ghosting**
 
-<br><br>
-
+<br>
 <p align="left">
 I'm Shahima Firoz Khan, a junior at the University of Mumbai studying
 computer engineering. I enjoy creating and developing software. I love

@@ -71,7 +71,9 @@ computer engineering. I enjoy creating and developing software. I love
 <a href="https://www.leetcode.com/khanshahima4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanshahima4" height="30" width="40" /></a>
 <a href="https://discord.gg/#9527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9527" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/OtYrEmHGBXhIlWaTGa/giphy.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/93CKJw2wjIkq07Vnxm/giphy.gif">
+<img align="right" alt="Coding" width="150" height="150" src="https://media.giphy.com/media/OtYrEmHGBXhIlWaTGa/giphy.gif">
+
 <br><br>
 
 

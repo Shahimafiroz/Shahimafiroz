@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://shahimafiroz.hashnode.dev/](https://shahimafiroz.hashnode.dev/)
 
-- 💬 Ask me about **Bootstrap , Tailwind , Javascript**
+- 💬 Ask me about ** Javascript , Node and Express **
 
 - ⚡ Fun fact **I'm a CEO of ghosting**
 

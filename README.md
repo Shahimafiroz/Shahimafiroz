@@ -43,6 +43,8 @@ computer engineering. I enjoy creating and developing software. I love
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&&theme=tokyonight" alt="shahimafiroz" /></p>
 <br>
 
+[![Shahimas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shahimafiroz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <br><br>

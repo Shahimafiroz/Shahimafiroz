@@ -1,7 +1,7 @@
 
 <p align="center"><img height="70" alt="Coding" src="https://media.giphy.com/media/NaJLclJfW2rUmWEMD6/giphy.gif"></p>
 <h1 align="center">Hello! 👋, I'm Shahima Firoz Khan</h1>
-<h3 align="center">A Software developer from Neptune</h3>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2A7F7&width=435&lines=%E2%9C%A8+A+developer+from+Neptune+%E2%9C%A8" alt="Typing SVG" /></a></p>
 <img align="right" alt="Coding" width="350" height="300" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahimafiroz&label=Profile%20views&color=0e75b6&style=flat" alt="Shahima" /> </p>

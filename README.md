@@ -31,7 +31,7 @@
       </td>
       <td>
         <div align="center">
-<img  alt="Coding" width="390" height="380" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
+<img  alt="Coding" width="350" height="350" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
 </div>
       </td>
     </tr>
@@ -71,7 +71,19 @@
  <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#11009E&height=120&section=header"/>
 </a> 
-          
+ <h1 align="center">Insights</h1>
+  <br><br>
+  
+[![Shahima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahimafiroz&theme=redical)](https://github.com/Shahimafiroz/github-readme-activity-graph)
+  <br><br><br>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&theme=synthwave" alt="shahimafiroz" /></p>
+  
+  <br><br>
+  
+<p align="center"> <a href="https://github.com/shahimafiroz/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahimafiroz&theme=discord&no-bg=true&no-frame=true&margin-w=15&column=8&margin-w=15&margin-h=15" alt="shahimafiroz" /></a> </p>
+ <br><br>
+
           
 <a href="#">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=footer"/>
@@ -80,10 +92,10 @@
           
           
           
-          
-          
-          
-          
+<h3>
+ Congratulations! You've successfully discovered the hidden treasure of my profile. Keep coding, keep exploring, and may your bugs be as elusive as unicorns! 🦄✨
+</h3>          
+                  
 
 <div>
 <img align="center" alt="Coding" width="150" height="150" src="https://media.giphy.com/media/OtYrEmHGBXhIlWaTGa/giphy.gif">
@@ -91,7 +103,5 @@
 <div>
  <img align="center" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/93CKJw2wjIkq07Vnxm/giphy.gif">                            
 </div>
-<h3>
- Congratulations! You've successfully discovered the hidden treasure of my profile. Keep coding, keep exploring, and may your bugs be as elusive as unicorns! 🦄✨
-</h3>
+
 

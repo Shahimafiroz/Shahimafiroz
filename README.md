@@ -94,11 +94,8 @@
 </p>          
                   
 
-<div>
+
 <img align="center" alt="Coding" width="150" height="150" src="https://media.giphy.com/media/OtYrEmHGBXhIlWaTGa/giphy.gif">
-</div>
-<div>
- <img align="center" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/93CKJw2wjIkq07Vnxm/giphy.gif">                            
-</div>
+<img align="center" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/93CKJw2wjIkq07Vnxm/giphy.gif">                            
 
 

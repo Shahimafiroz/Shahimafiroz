@@ -2,10 +2,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#11009E&height=120&section=header"/>
 </a>
 
-<br>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDE2F3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Shahima;I'm+from+Nerdvana+Headquarters;I'm+a+Web+Developer+;+And+aspiring+data+Scientist;+Welcome!+ツ)
-<br><br>
+
 <div align="center"> 
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=synthwave&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>

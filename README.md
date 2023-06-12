@@ -8,10 +8,10 @@
 
 <div align="center"> 
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=synthwave&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=omni&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=synthwave&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=omni&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
 </div> 
 <br><br>

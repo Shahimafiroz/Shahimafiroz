@@ -8,17 +8,91 @@
 
 <div align="center"> 
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=omni&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=omni&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
 </div> 
 <br><br>
 <div align="center">
-<p > 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>  
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>  
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+    </tr>
+     
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+  
+  
+  <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td>
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+    </td>
+  </tr>
+ 
+</table>
+</div>
+
   
 <a href="#">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=footer"/>
@@ -42,8 +116,30 @@
 </body>
 </html>
     <p align="center"> <a href="https://github.com/shahimafiroz/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahimafiroz&theme=discord&no-bg=true&no-frame=true&margin-w=15&column=8&margin-w=15&margin-h=15" alt="shahimafiroz" /></a> </p>
+    
  <br><br>
 
+
+ <h1 align="center">Insights</h1>
+  <br><br>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahimafiroz&theme=redical&hide_border=true&bg_color=000000&hide_title=false&area=true" width="95%"/>
+ 
+<div>
+
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&hide_border=true&theme=violet-dark" width="50%"  alt="shahimafiroz" />
+  <img align ="left" src="https://leetcard.jacoblin.cool/khanshahima4?&hide_border=true" width="45%"  alt="shahimafiroz" />
+
+ 
+</div>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+  
 
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahimafiroz&label=Profile%20views&color=0e75b6&style=flat" alt="Shahima" /> </p>
@@ -58,11 +154,8 @@
 <a href="https://www.leetcode.com/khanshahima4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanshahima4" height="30" width="40" /></a>
 <a href="https://discord.gg/#9527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9527" height="30" width="40" /></a>
 </p>
-
-
-
-
 <br><br>
+  
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -75,34 +168,20 @@
 <!-- END YOUTUBE-CARDS -->
       
 
- <h1 align="center">Insights</h1>
-  <br><br>
-  
-[![Shahima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahimafiroz&theme=redical)](https://github.com/Shahimafiroz/github-readme-activity-graph)
-  <br><br><br>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&border=0&radius=20&theme=dark" alt="shahimafiroz" />
 
- 
 
+<h1 align="center">BYEEEE!!</h1>
+
+
+
+
+<img align="left" alt="Coding" width="150" height="150" src="https://media.giphy.com/media/OtYrEmHGBXhIlWaTGa/giphy.gif">
+<img align="left" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/93CKJw2wjIkq07Vnxm/giphy.gif"> 
+<br><br>
+<p align="left">
+  Congratulations! You've successfully discovered the hidden treasure of my profile. Keep coding, keep exploring, and may your bugs be as elusive as unicorns! 🦄✨
 </p>
-  
-  <br><br>
-  
 
           
-     
-          
-          
-          
-          
-<p>
- Congratulations! You've successfully discovered the hidden treasure of my profile. Keep coding, keep exploring, and may your bugs be as elusive as unicorns! 🦄✨
-</p>          
-                  
-
-
-<img align="center" alt="Coding" width="150" height="150" src="https://media.giphy.com/media/OtYrEmHGBXhIlWaTGa/giphy.gif">
-<img align="center" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/93CKJw2wjIkq07Vnxm/giphy.gif">                            
-
-
+         
+       

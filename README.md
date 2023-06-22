@@ -1,10 +1,8 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#11009E&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39deed&height=120&section=header"/>
 </a>
 
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDE2F3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Shahima;I'm+from+Nerdvana+Headquarters;I'm+a+Web+Developer+;+And+aspiring+data+Scientist;+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc0388&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Shahima;I'm+from+Nerdvana+Headquarters;I'm+a+Web+Developer+;+And+aspiring+data+Scientist;+Welcome!+ツ)
 
 <div align="center"> 
   <a href="#">
@@ -14,9 +12,35 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
 </div> 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahimafiroz&theme=redical&hide_border=true&bg_color=0d1117&hide_title=false&area=true" width="90%"/> 
+<a href="#">
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39deed&height=120&section=footer"/>
+</a>  
 <br><br>
-<div align="center">
-<div style="display: flex; align-items: flex-start; align: center">
+
+<html>
+<body>
+  <table>
+    <tr>
+      <td align="left">
+      Hello there! 👋 I'm Shahima, a humble explorer in the vast realm of technology. 🌌 As an intermediate-level MERN magician, I summon the power of MongoDB, Express, React, and Node.js to craft mesmerizing web experiences. 💻✨ But my quest doesn't end there! I aspire to unlock the secrets of data science, harnessing the mystical forces of analytics and machine learning to unravel hidden patterns. 📊🔍 Join me on this enchanting journey as I navigate the realms of code and data, constantly pushing the boundaries of what's possible. 🚀✨ Together, let's weave magic with technology and shape a future full of wonder! 🧙‍♀️✨"
+      </td>
+      <td>
+        <div align="center">
+<img  alt="Coding" width="350" height="350" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
+</div>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+    <p align="center"> <a href="https://github.com/shahimafiroz/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahimafiroz&theme=discord&no-bg=true&no-frame=true&margin-w=15&column=8&margin-w=15&margin-h=15" alt="shahimafiroz" /></a> </p>
+    
+ <br><br>
+
+ <div style="display: flex; align-items: flex-start; align: center">
+   <h3 align ="center">My tech stack</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -93,52 +117,18 @@
 </table>
 </div>
 
-  
-<a href="#">
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=footer"/>
-</a>  
-<br><br>
 
-<html>
-<body>
-  <table>
-    <tr>
-      <td align="left">
-      Hello there! 👋 I'm Shahima, a humble explorer in the vast realm of technology. 🌌 As an intermediate-level MERN magician, I summon the power of MongoDB, Express, React, and Node.js to craft mesmerizing web experiences. 💻✨ But my quest doesn't end there! I aspire to unlock the secrets of data science, harnessing the mystical forces of analytics and machine learning to unravel hidden patterns. 📊🔍 Join me on this enchanting journey as I navigate the realms of code and data, constantly pushing the boundaries of what's possible. 🚀✨ Together, let's weave magic with technology and shape a future full of wonder! 🧙‍♀️✨"
-      </td>
-      <td>
-        <div align="center">
-<img  alt="Coding" width="350" height="350" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif">
-</div>
-      </td>
-    </tr>
-  </table>
-</body>
-</html>
-    <p align="center"> <a href="https://github.com/shahimafiroz/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahimafiroz&theme=discord&no-bg=true&no-frame=true&margin-w=15&column=8&margin-w=15&margin-h=15" alt="shahimafiroz" /></a> </p>
-    
- <br><br>
+ 
+  <br>
 
-
- <h1 align="center">Insights</h1>
-  <br><br>
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahimafiroz&theme=redical&hide_border=true&bg_color=000000&hide_title=false&area=true" width="95%"/>
  
 <div>
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&hide_border=true&theme=violet-dark" width="48%"  alt="shahimafiroz" />
   <img align ="center" src="https://leetcard.jacoblin.cool/khanshahima4?&hide_border=true" width="48%"  alt="shahimafiroz" />
-
- 
 </div>
-
-
 <br><br>
 <br><br>
-
-  
-
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahimafiroz&label=Profile%20views&color=0e75b6&style=flat" alt="Shahima" /> </p>
 <h3 align="center">Ready to code? Let's connect! 🚀"</h3>
@@ -164,15 +154,9 @@
 [![Covariance.](https://ytcards.demolab.com/?id=qoi5JsDALK4&title=Covariance.&lang=en&timestamp=1665327857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2618 "Covariance.")](https://www.youtube.com/watch?v=qoi5JsDALK4)
 [![PORTFOLIO](https://ytcards.demolab.com/?id=2JxZMLuSMw0&title=PORTFOLIO&lang=en&timestamp=1665323439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=144 "PORTFOLIO")](https://www.youtube.com/watch?v=2JxZMLuSMw0)
 <!-- END YOUTUBE-CARDS -->
-      
-
-
+    
 
 <h1 align="center">BYEEEE!!</h1>
-
-
-
-
 <img align="left" alt="Coding" width="150" height="150" src="https://media.giphy.com/media/OtYrEmHGBXhIlWaTGa/giphy.gif">
 <img align="left" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/93CKJw2wjIkq07Vnxm/giphy.gif"> 
 <br><br>

@@ -127,15 +127,13 @@
  
 <div>
 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&hide_border=true&theme=violet-dark" width="50%"  alt="shahimafiroz" />
-  <img align ="left" src="https://leetcard.jacoblin.cool/khanshahima4?&hide_border=true" width="45%"  alt="shahimafiroz" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahimafiroz&hide_border=true&theme=violet-dark" width="48%"  alt="shahimafiroz" />
+  <img align ="center" src="https://leetcard.jacoblin.cool/khanshahima4?&hide_border=true" width="48%"  alt="shahimafiroz" />
 
  
 </div>
 
-<br><br>
-<br><br>
-<br><br>
+
 <br><br>
 <br><br>
 

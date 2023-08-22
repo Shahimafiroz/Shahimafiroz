@@ -6,10 +6,12 @@
 
 <div align="center"> 
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
+    <!-- <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/> -->
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=neon&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+<!--     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117"/> -->
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=00000000&border_radius=15&border_color=00000000"/>
   </a>
 </div> 
 

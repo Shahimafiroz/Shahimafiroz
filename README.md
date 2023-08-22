@@ -5,13 +5,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc0388&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Shahima;I'm+from+Nerdvana+Headquarters;I'm+a+Web+Developer+;+And+aspiring+data+Scientist;+Welcome!+ツ)
 
 <div align="center"> 
-  <a href="#">
+  <a href="#" align="right">
     <!-- <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/> -->
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=neon&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs"/>
+    <img height="190rem" width="45%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shahimafiroz&show_icons=true&theme=neon&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs"/>
   </a>
-  <a href="#">
+  <a href="#" align="left">
 <!--     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=0d1117&border_radius=15&border_color=0d1117"/> -->
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=00000000&border_radius=15&border_color=00000000"/>
+    <img height="190rem" width="45%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahimafiroz&langs_count=6&layout=compact&theme=neon&bg_color=00000000&border_radius=15&border_color=00000000"/>
   </a>
 </div> 
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=e879c9&size=32&center=true&vCenter=true&width=1000&pause=1000&lines=%E2%9C%A8+I'm+from+Nerdvana+Headquarters;%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F+Web+Developer+%26+aspiring+Data+Scientist;%F0%9F%92%9C+Welcome+to+my+corner+of+the+internet!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=e879c9&size=32&center=true&vCenter=true&width=1000&pause=1000&lines=%E2%9C%A8+I'm+from+Nerdvana+Headquarters;%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F+Full+Stack+Web+Developer+%26+aspiring+Data+Scientist;%F0%9F%92%9C+Welcome+to+my+corner+of+the+internet!)
 
 </div>
 
